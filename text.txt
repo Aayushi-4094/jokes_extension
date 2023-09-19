@@ -1,0 +1,1 @@
+manifest.json has the properties of extension
