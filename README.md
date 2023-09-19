@@ -85,3 +85,7 @@ To make your "Jokes" extension available to a wider audience, you can publish it
     - Address user feedback and keep it up to date.
 
 Congratulations! Your "Jokes" extension is now available on the Chrome Web Store for users to discover and enjoy.
+
+
+
+[image](https://github.com/Aayushi-4094/jokes_extension/blob/main/joke_ss.jpg)
